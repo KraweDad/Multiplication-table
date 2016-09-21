@@ -24,7 +24,7 @@ Height of multiplication table: 8
 import math
 
 w= int(input("Width of the multiplication table: "))
-h= int(input(" Height of multiplication table: "))
+h= int(input("Height of multiplication table: "))
 
 for j in range(1, h+1):
     for i in range(1, w+1):
